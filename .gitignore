@@ -1,0 +1,6 @@
+# datos de la app (base, claves de notificaciones, copias): nunca al repositorio
+datos/
+**/__pycache__/
+.pytest_cache/
+*.pyc
+.env
